@@ -1,2 +1,3 @@
 First Line.
+Fixing a bug.
 Second Line.
